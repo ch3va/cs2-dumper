@@ -1,20 +1,20 @@
 {
   "client.dll": {
     "dwCSGOInput": 26392096,
-    "dwEntityList": 25963864,
+    "dwEntityList": 25959864,
     "dwGameEntitySystem": 27133840,
     "dwGameEntitySystem_getHighestEntityIndex": 5392,
     "dwGameRules": 26344608,
     "dwGlobalVars": 24292256,
     "dwGlowManager": 26345664,
-    "dwLocalPlayerController": 26289528,
+    "dwLocalPlayerController": 26285432,
     "dwLocalPlayerPawn": 24342952,
     "dwPlantedC4": 26381016,
     "dwPrediction": 24342640,
     "dwSensitivity": 26348008,
     "dwSensitivity_sensitivity": 64,
-    "dwViewAngles": 26413488,
-    "dwViewMatrix": 26362272,
+    "dwViewAngles": 26409280,
+    "dwViewMatrix": 26358192,
     "dwViewRender": 26364448
   },
   "engine2.dll": {
